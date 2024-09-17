@@ -1,1 +1,0 @@
-document.write("Hello User... to learn js");
